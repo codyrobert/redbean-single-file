@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=5.*"
+        "php": "5.*"
     },
     "autoload": {
         "files": ["rb.php"]
