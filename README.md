@@ -1,7 +1,7 @@
 RedBeanPHP 4 Single File (5.3.3)
 ========================
 
-This is a fork from [yeriomin/redbean-single-file](https://github.com/yeriomin/redbean-single-file) with the [patch](http://redbeanphp.com/install#p533patch) applied for &gt; PHP 5.3.3.
+This is a fork from [yeriomin/redbean-single-file](https://github.com/yeriomin/redbean-single-file) with the [patch](http://redbeanphp.com/install#p533patch) applied for &lt; PHP 5.3.3.
 
 In this package there is only one file - rb.php. The one you would get by clicking [Download RedBeanPHP](http://redbeanphp.com/downloadredbean.php) on the redbean download page.
 
