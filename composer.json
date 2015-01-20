@@ -1,5 +1,5 @@
 {
-    "name": "yeriomin/redbean-single-file",
+    "name": "codyrobert/redbean-single-file",
     "type": "library",
     "description": "RedBeanPHP is an easy-to-use, on-the-fly ORM for PHP.",
     "keywords": ["MySQL", "InnoDB", "MariaDB", "PostgreSQL", "SQLite3", "CUBRID"],
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.*"
     },
     "autoload": {
         "files": ["rb.php"]
